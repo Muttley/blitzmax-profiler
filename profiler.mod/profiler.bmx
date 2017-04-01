@@ -19,7 +19,7 @@ Module muttley.profiler
 ModuleInfo "Version: 1.0.0"
 ModuleInfo "License: Artistic License 2.0"
 ModuleInfo "Author: Paul Maskelyne (Muttley)"
-ModuleInfo "Copyright: (c) 2007 Paul Maskelyne"
+ModuleInfo "Copyright: (c) 2007-2017 Paul Maskelyne"
 ModuleInfo "E-Mail: muttley@muttleyville.org"
 ModuleInfo "Website: http://www.muttleyville.org"
 
